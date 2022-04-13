@@ -1,0 +1,9 @@
+title = "Shells config"
+
+[[cmd]]
+shellCommand = "ls -l"
+desc = "List directory contents"
+
+[[cmd]]
+shellCommand = "cd ~/repos/api-server"
+desc = "API Server"
